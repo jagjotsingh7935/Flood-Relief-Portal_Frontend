@@ -1,0 +1,23 @@
+{
+  "floodDashboard": {
+    "title": "ਰਜਿਸਟਰਡ ਵਿਅਕਤੀਆਂ ਦੇ ਹੜ੍ਹ ਦੇ ਅੰਕੜੇ",
+    "stats": {
+      "affected_population": "ਪ੍ਰਭਾਵਿਤ ਆਬਾਦੀ",
+      "rescue_operations": "ਬਚਾਅ ਕਾਰਜ",
+      "houses_partially_damaged": "ਘਰ ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਨੁਕਸਾਨੇ",
+      "houses_fully_damaged": "ਘਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਨੁਕਸਾਨੇ",
+      "land_owned_affected": "ਜ਼ਮੀਨ ਦੀ ਮਲਕੀਅਤ / ਪ੍ਰਭਾਵਿਤ ਜ਼ਮੀਨ",
+      "estimated_crop_loss": "ਅੰਦਾਜ਼ਨ ਫਸਲ ਨੁਕਸਾਨ",
+      "total_farmers": "ਕੁੱਲ ਕਿਸਾਨ",
+      "affected_areas": "ਪ੍ਰਭਾਵਿਤ ਖੇਤਰ",
+      "verified_cases": "ਤਸਦੀਕ ਕੀਤੇ ਮਾਮਲੇ",
+      "pending_verification": "ਪੜਤਾਲ ਪੈਂਡਿੰਗ",
+      "total_land_affected": "ਕੁੱਲ ਪ੍ਰਭਾਵਿਤ ਜ਼ਮੀਨ",
+      "relief_camps": "ਰਾਹਤ ਕੈਂਪ"
+    },
+    "search_placeholder": "ਕਿਸੇ ਸਥਾਨ ਦੀ ਖੋਜ ਕਰੋ...",
+    "snackbar": {
+      "zoomed_to": "{village} ਵੱਲ ਜ਼ੂਮ ਕੀਤਾ"
+    }
+  }
+}

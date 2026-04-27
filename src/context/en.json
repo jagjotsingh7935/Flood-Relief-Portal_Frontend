@@ -1,0 +1,124 @@
+{
+  "floodDashboard": {
+    "totalFarmers": {
+      "title": "Total Farmers",
+      "subtitle": "Manage and view farmer information with advanced filtering options",
+      "filter_options": "Filter Options",
+      "search_placeholder": "Search by name, location, or crop...",
+      "active_filters": "Active Filters",
+      "no_filters": "No filters applied",
+      "select_state": "Select State",
+      "select_district": "Select District",
+      "select_tehsil": "Select Tehsil",
+      "select_village": "Select Village",
+      "generate_pdf": "Generate PDF",
+      "generating_pdf": "Generating PDF...",
+      "loading_data": "Loading farmer data...",
+      "no_results": "No farmers found",
+      "table_headers": {
+        "image": "Image",
+        "farmer_details": "Farmer Details",
+        "location": "Location",
+        "land_size": "Land Size",
+        "crop": "Crop",
+        "contact": "Contact",
+        "status": "Status",
+        "status_no_damage": "No Damage",
+        "status_partially_damaged": "Partially Damaged",
+        "status_fully_damaged": "Fully Damaged"
+      },
+      "pdf_generating": "Generating PDF...",
+      "pdf_wait": "Please wait while we prepare your document",
+      "pdf_error": "Failed to generate PDF. Please try again."
+    },
+    "title": "Flood Statistics of Registered Persons",
+    "stats": {
+      "affected_population": "Affected Population",
+      "rescue_operations": "Rescue Operations",
+      "houses_partially_damaged": "Houses Partially Damaged",
+      "houses_fully_damaged": "Houses Fully Damaged",
+      "land_owned_affected": "Land Owned / Land Affected",
+      "estimated_crop_loss": "Estimated Crop Loss",
+      "total_amount_needed": "Total Amount Needed",
+      "total_amount_received": "Total Amount Received",
+      "total_farmers": "Total Farmers",
+      "affected_areas": "Affected Areas",
+      "verified_cases": "Verified Cases",
+      "pending_verification": "Pending Verification",
+      "total_land_affected": "Total Land Affected",
+      "relief_camps": "Relief Camps"
+    },
+    "search_placeholder": "Search for a location...",
+    "snackbar": {
+      "zoomed_to": "Zoomed to {village}"
+    },
+    "appbar": {
+      "title": "Punjab Flood Relief Portal",
+      "toggle_map": "Toggle Map",
+      "hide_map": "Hide Map",
+      "show_map": "Show Map",
+      "hide_map_aria": "Hide the map",
+      "show_map_aria": "Show the map",
+      "english": "English",
+      "punjabi": "Punjabi",
+      "logo_alt": "Punjab Flood Relief Portal Logo",
+      "language_selector_aria": "Select language"
+    },
+    "search": {
+      "title": "Search Village/City or Pincode",
+      "aria_label": "Search for villages, cities, or pincode in Punjab",
+      "clear_search_aria": "Clear search",
+      "no_results": "No places found matching \"{query}\" in Punjab, India."
+    },
+    "villages": {
+      "title": "Most Affected Villages",
+      "loading": "Loading villages...",
+      "no_results": "No villages found for the current filter.",
+      "risk": "Risk",
+      "population": "Population",
+      "severity": {
+        "critical": "Critical",
+        "moderate": "Moderate",
+        "mild": "Mild",
+        "unknown": "Unknown"
+      }
+    },
+    "errors": {
+      "unable_to_load_stats": "Unable to load stats data",
+      "unable_to_load_farmers": "Unable to load farmers data",
+      "unable_to_load_suggestions": "Unable to load suggestions. Please try again later.",
+      "unable_to_load_villages": "Unable to load village data"
+    },
+    "affectedAreasStats": {
+      "title": "Affected Villages",
+      "subtitle": "Farmers List Report Generator",
+      "report_contents": "Report Contents",
+      "report_items": {
+        "farmers_list": "Complete farmers listing",
+        "village_breakdown": "Village-wise breakdown",
+        "contact_info": "Contact information",
+        "stats_summary": "Statistical summary"
+      },
+      "chips": {
+        "area_coverage": "Area Coverage Report",
+        "pdf_export": "PDF Export",
+        "comprehensive_data": "Comprehensive Data",
+        "pdf_format": "PDF Format",
+        "detailed_analytics": "Detailed Analytics"
+      },
+      "button": {
+        "download": "Download Farmers List (PDF)",
+        "generating": "Generating PDF Report..."
+      },
+      "success_message": "Report downloaded successfully!",
+      "note": {
+        "title": "Note",
+        "description": "The generated report includes all affected villages with complete farmer details, contact information, and land records. Please ensure secure handling of this sensitive data."
+      },
+      "errors": {
+        "generate_report": "Failed to generate report. Please try again."
+      }
+    }
+  }
+  
+}

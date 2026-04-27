@@ -1,0 +1,23 @@
+{
+  "floodDashboard": {
+    "title": "Flood Statistics of Registered Persons",
+    "stats": {
+      "affected_population": "Affected Population",
+      "rescue_operations": "Rescue Operations",
+      "houses_partially_damaged": "Houses Partially Damaged",
+      "houses_fully_damaged": "Houses Fully Damaged",
+      "land_owned_affected": "Land Owned / Land Affected",
+      "estimated_crop_loss": "Estimated Crop Loss",
+      "total_farmers": "Total Farmers",
+      "affected_areas": "Affected Areas",
+      "total_amount_needed": "Amount Needed",
+      "total_amount_received": "Amount Received",
+      "total_land_affected": "Total Land Affected",
+      "relief_camps": "Relief Camps"
+    },
+    "search_placeholder": "Search for a location...",
+    "snackbar": {
+      "zoomed_to": "Zoomed to {village}"
+    }
+  }
+}

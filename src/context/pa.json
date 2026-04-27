@@ -1,0 +1,125 @@
+{
+  "floodDashboard": {
+    "totalFarmers": {
+      "title": "ਕੁੱਲ ਕਿਸਾਨ",
+      "subtitle": "ਕਿਸਾਨ ਜਾਣਕਾਰੀ ਨੂੰ ਪ੍ਰਬੰਧਿਤ ਕਰੋ ਅਤੇ ਵੇਖੋ ਅਤੇ ਉੱਨਤ ਫਿਲਟਰ ਵਿਕਲਪਾਂ ਨਾਲ",
+      "filter_options": "ਫਿਲਟਰ ਵਿਕਲਪ",
+      "search_placeholder": "ਨਾਮ, ਸਥਾਨ, ਜਾਂ ਫਸਲ ਦੁਆਰਾ ਖੋਜੋ...",
+      "active_filters": "ਸਰਗਰਮ ਫਿਲਟਰ",
+      "no_filters": "ਕੋਈ ਫਿਲਟਰ ਲਾਗੂ ਨਹੀਂ ਕੀਤੇ ਗਏ",
+      "select_state": "ਰਾਜ ਚੁਣੋ",
+      "select_district": "ਜ਼ਿਲ੍ਹਾ ਚੁਣੋ",
+      "select_tehsil": "ਤਹਿਸੀਲ ਚੁਣੋ",
+      "select_village": "ਪਿੰਡ ਚੁਣੋ",
+      "generate_pdf": "PDF ਤਿਆਰ ਕਰੋ",
+      "generating_pdf": "PDF ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+      "loading_data": "ਕਿਸਾਨ ਡੇਟਾ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+      "no_results": "ਕੋਈ ਕਿਸਾਨ ਨਹੀਂ ਮਿਲੇ",
+      "table_headers": {
+        "image": "ਤਸਵੀਰ",
+        "farmer_details": "ਕਿਸਾਨ ਵੇਰਵੇ",
+        "location": "ਸਥਾਨ",
+        "land_size": "ਜ਼ਮੀਨ ਦਾ ਆਕਾਰ",
+        "crop": "ਫਸਲ",
+        "contact": "ਸੰਪਰਕ",
+        "status": "ਸਥਿਤੀ",
+        "status_no_damage": "ਕੋਈ ਨੁਕਸਾਨ ਨਹੀਂ",
+        "status_partially_damaged": "ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਨੁਕਸਾਨਿਆ",
+        "status_fully_damaged": "ਪੂਰੀ ਤਰ੍ਹਾਂ ਨੁਕਸਾਨਿਆ"
+      },
+      "pdf_generating": "PDF ਤਿਆਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+      "pdf_wait": "ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ ਜਦੋਂ ਅਸੀਂ ਤੁਹਾਡਾ ਦਸਤਾਵੇਜ਼ ਤਿਆਰ ਕਰਦੇ ਹਾਂ",
+      "pdf_error": "PDF ਤਿਆਰ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    "title": "ਰਜਿਸਟਰਡ ਵਿਅਕਤੀਆਂ ਦੇ ਹੜ੍ਹ ਦੇ ਅੰਕੜੇ",
+    "stats": {
+      "affected_population": "ਪ੍ਰਭਾਵਿਤ ਆਬਾਦੀ",
+      "rescue_operations": "ਬਚਾਅ ਕਾਰਜ",
+      "houses_partially_damaged": "ਘਰ ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਨੁਕਸਾਨੇ",
+      "houses_fully_damaged": "ਘਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਨੁਕਸਾਨੇ",
+      "land_owned_affected": "ਜ਼ਮੀਨ ਦੀ ਮਲਕੀਅਤ / ਪ੍ਰਭਾਵਿਤ ਜ਼ਮੀਨ",
+      "total_amount_needed": "ਕੁੱਲ ਰਕਮ ਦੀ ਲੋੜ",
+      "total_amount_received": "ਕੁੱਲ ਰਕਮ ਪ੍ਰਾਪਤ",
+      "estimated_crop_loss": "ਅੰਦਾਜ਼ਨ ਫਸਲ ਨੁਕਸਾਨ",
+      "total_farmers": "ਕੁੱਲ ਕਿਸਾਨ",
+      "affected_areas": "ਪ੍ਰਭਾਵਿਤ ਖੇਤਰ",
+      "verified_cases": "ਤਸਦੀਕ ਕੀਤੇ ਮਾਮਲੇ",
+      "pending_verification": "ਪੜਤਾਲ ਪੈਂਡਿੰਗ",
+      "total_land_affected": "ਕੁੱਲ ਪ੍ਰਭਾਵਿਤ ਜ਼ਮੀਨ",
+      "relief_camps": "ਰਾਹਤ ਕੈਂਪ"
+    },
+    "search_placeholder": "ਕਿਸੇ ਸਥਾਨ ਦੀ ਖੋਜ ਕਰੋ...",
+    "snackbar": {
+      "zoomed_to": "{village} ਵੱਲ ਜ਼ੂਮ ਕੀਤਾ"
+    },
+    "appbar": {
+      "title": "ਪੰਜਾਬ ਹੜ੍ਹ ਰਾਹਤ ਪੋਰਟਲ",
+      "toggle_map": "ਮੈਪ ਟੌਗਲ ਕਰੋ",
+      "hide_map": "ਮੈਪ ਲੁਕਾਓ",
+      "show_map": "ਮੈਪ ਵਿਖਾਓ",
+      "hide_map_aria": "ਮੈਪ ਲੁਕਾਓ",
+      "show_map_aria": "ਮੈਪ ਵਿਖਾਓ",
+      "english": "ਅੰਗਰੇਜ਼ੀ",
+      "punjabi": "ਪੰਜਾਬੀ",
+      "logo_alt": "ਪੰਜਾਬ ਹੜ੍ਹ ਰਾਹਤ ਪੋਰਟਲ ਲੋਗੋ",
+      "language_selector_aria": "ਭਾਸ਼ਾ ਚੁਣੋ"
+    },
+    "search": {
+      "title": "ਪਿੰਡ/ਸ਼ਹਿਰ ਜਾਂ ਪਿੰਨਕੋਡ ਖੋਜੋ",
+      "aria_label": "ਪੰਜਾਬ ਵਿੱਚ ਪਿੰਡਾਂ, ਸ਼ਹਿਰਾਂ ਜਾਂ ਪਿੰਨਕੋਡ ਦੀ ਖੋਜ ਕਰੋ",
+      "clear_search_aria": "ਖੋਜ ਸਾਫ਼ ਕਰੋ",
+      "no_results": "ਪੰਜਾਬ, ਭਾਰਤ ਵਿੱਚ \"{query}\" ਨਾਲ ਮੇਲ ਖਾਂਦਾ ਕੋਈ ਸਥਾਨ ਨਹੀਂ ਮਿਲਿਆ।"
+    },
+    "villages": {
+      "title": "ਸਭ ਤੋਂ ਵੱਧ ਪ੍ਰਭਾਵਿਤ ਪਿੰਡ",
+      "loading": "ਪਿੰਡ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+      "no_results": "ਮੌਜੂਦਾ ਫਿਲਟਰ ਲਈ ਕੋਈ ਪਿੰਡ ਨਹੀਂ ਮਿਲੇ।",
+      "risk": "ਜੋਖਮ",
+      "population": "ਆਬਾਦੀ",
+      "severity": {
+        "critical": "ਨਾਜ਼ੁਕ",
+        "moderate": "ਮੱਧਮ",
+        "mild": "ਹਲਕਾ",
+        "unknown": "ਅਣਜਾਣ"
+      }
+    },
+    "errors": {
+      "unable_to_load_stats": "ਅੰਕੜੇ ਡੇਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ",
+      "unable_to_load_farmers": "ਕਿਸਾਨ ਡੇਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ",
+      "unable_to_load_suggestions": "ਸੁਝਾਅ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+      "unable_to_load_villages": "ਪਿੰਡ ਡੇਟਾ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ"
+    },
+    "affectedAreasStats": {
+      "title": "ਪ੍ਰਭਾਵਿਤ ਪਿੰਡ",
+      "subtitle": "ਕਿਸਾਨ ਸੂਚੀ ਰਿਪੋਰਟ ਜਨਰੇਟਰ",
+      "report_contents": "ਰਿਪੋਰਟ ਸਮੱਗਰੀ",
+      "report_items": {
+        "farmers_list": "ਪੂਰਨ ਕਿਸਾਨ ਸੂਚੀ",
+        "village_breakdown": "ਪਿੰਡ ਅਨੁਸਾਰ ਵੰਡ",
+        "contact_info": "ਸੰਪਰਕ ਜਾਣਕਾਰੀ",
+        "stats_summary": "ਅੰਕੜਾ ਸੰਖੇਪ"
+      },
+      "chips": {
+        "area_coverage": "ਖੇਤਰ ਕਵਰੇਜ ਰਿਪੋਰਟ",
+        "pdf_export": "PDF ਨਿਰਯਾਤ",
+        "comprehensive_data": "ਵਿਆਪਕ ਡੇਟਾ",
+        "pdf_format": "PDF ਫਾਰਮੈਟ",
+        "detailed_analytics": "ਵਿਸਤ੍ਰਿਤ ਵਿਸ਼ਲੇਸ਼ਣ"
+      },
+      "button": {
+        "download": "ਕਿਸਾਨ ਸੂਚੀ ਡਾਊਨਲੋਡ ਕਰੋ (PDF)",
+        "generating": "PDF ਰਿਪੋਰਟ ਤਿਆਰ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ..."
+      },
+      "success_message": "ਰਿਪੋਰਟ ਸਫਲਤਾਪੂਰਵਕ ਡਾਊਨਲੋਡ ਕੀਤੀ ਗਈ!",
+      "note": {
+        "title": "ਨੋਟ",
+        "description": "ਤਿਆਰ ਕੀਤੀ ਗਈ ਰਿਪੋਰਟ ਵਿੱਚ ਸਾਰੇ ਪ੍ਰਭਾਵਿਤ ਪਿੰਡਾਂ ਦੀ ਪੂਰੀ ਕਿਸਾਨ ਵੇਰਵੇ, ਸੰਪਰਕ ਜਾਣਕਾਰੀ, ਅਤੇ ਜ਼ਮੀਨ ਰਿਕਾਰਡ ਸ਼ਾਮਲ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਸੰਵੇਦਨਸ਼ੀਲ ਡੇਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲਣਾ ਯਕੀਨੀ ਬਣਾਓ।"
+      },
+      "errors": {
+        "generate_report": "ਰਿਪੋਰਟ ਤਿਆਰ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+      }
+    }
+    
+  }
+  
+}
